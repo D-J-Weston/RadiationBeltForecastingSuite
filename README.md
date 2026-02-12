@@ -4,7 +4,7 @@ COVEN (**C**ollection **O**f **V**AMPIRE models for **E**nhanced **N**otificatio
 
 The model uses a random forest methodology and uses selected inputs from the OMNI dataset, with the flux measurements from Van Allen Probe,
 
-Within the Example Notebooks folder there is an example python notebook for a suite of VAMPIRE-X models. This notebook downloads datasets from https://zenodo.org/records/18495889 , and trains and tests each model.
+Within the Example Notebooks folder there is an example python notebook for a suite of VAMPIRE-X models. This notebook downloads datasets from https://zenodo.org/records/18622762, and trains and tests each model.
 
 Each Notebook will import each of the required package versions. 
 
